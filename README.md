@@ -7,7 +7,7 @@ Installation
 Debian
 ------
 
-    abt get install ruby-colorize ruby-net-ssh
+    apt install ruby-colorize ruby-net-ssh
 
 Usage
 =====
